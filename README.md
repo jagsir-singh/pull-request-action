@@ -53,4 +53,4 @@ registry to update it.
 
 If the branch is already open for PR, it updates it. Take a look at [this example](https://github.com/singularityhub/registry-org/pull/8)
 for the pull request opened when we updated the previous GitHub syntax to the new yaml syntax. Although this
-doesn't describe the workflow above, it works equivalently in terms of the triggers.
+doesn't describe the workflow above, it works equivalently in terms of the triggers..
